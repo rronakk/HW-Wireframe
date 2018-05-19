@@ -36,7 +36,7 @@ article{
     margin:45px 5px 5px 5px;
     padding: 15px 0px 5px 0px;
 }
-#article-details{
+.article-contents{
     height: 20px;
     color: #777;
     background: #ebebeb;
